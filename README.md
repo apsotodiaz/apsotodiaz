@@ -47,15 +47,16 @@ Actualmente estoy ampliando mi perfil hacia el análisis de datos, cursando una 
 ## Familiar/Aprendiendo:
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sumoncse19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumoncse19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 Estadísticas de GitHub
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sumoncse19&theme=algolia" alt="sumoncse19" /></p><br>
+![](https://github-readme-stats.vercel.app/api?username=apsotodiaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=apsotodiaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sumoncse19&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+## 🔥 Racha de contribuciones
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=apsotodiaz&theme=algolia" alt="apsotodiaz" /></p><br>
 
-### ✍️ Random Dev Quote
+## 🏆 Logros de GitHub
+![](https://github-profile-trophy.vercel.app/?username=apsotodiaz&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Frase aleatoria de programación
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
