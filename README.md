@@ -45,6 +45,8 @@ Proyecto de tesis desarrollado sobre la placa **Maixduino (Kendryte K210)**, enf
 
 🔗 [Ver repositorio](https://github.com/apsotodiaz/Patric-Smart---Maixduino)
 
+🔗 [Ver presentación](https://github.com/apsotodiaz/Patric-Smart---Maixduino/blob/main/Presentacion_Soto_Alex.pdf)
+
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
