@@ -30,6 +30,23 @@ Actualmente estoy ampliando mi perfil hacia el análisis de datos, cursando una 
 
 ---
 
+# 🗂️ Portafolio de Proyectos
+
+### 🎙️ Patric-Smart — Identificación de Voz y Rostro con IA en MicroPython
+Proyecto de tesis desarrollado sobre la placa **Maixduino (Kendryte K210)**, enfocado en identificación biométrica mediante inteligencia artificial embebida.
+
+- 🔊 Verificación de hablante (speaker verification) con modelo **GMM-UBM**
+- 📷 Reconocimiento facial mediante cámara integrada
+- 📟 Interfaz de estado en pantalla LCD
+- 🎚️ Procesamiento de señales de audio con FFT
+- 🐍 Desarrollado en **MicroPython** y **Python**, con notebooks Jupyter para entrenamiento de modelos
+
+![MicroPython](https://img.shields.io/badge/micropython-2B2728?style=for-the-badge&logo=micropython&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+🔗 [Ver repositorio](https://github.com/apsotodiaz/Patric-Smart---Maixduino)
+
+---
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-patricio-soto-diaz-a420471a5/)
 <a href="mailto:apsotodiaz@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
