@@ -35,10 +35,10 @@ Actualmente estoy ampliando mi perfil hacia el análisis de datos, cursando una 
 ### 🎙️ Patric-Smart — Identificación de Voz y Rostro con IA en MicroPython
 Proyecto de tesis desarrollado sobre la placa **Maixduino (Kendryte K210)**, enfocado en identificación biométrica mediante inteligencia artificial embebida.
 
-- 🔊 Verificación de hablante (speaker verification) con modelo **GMM-UBM**
-- 📷 Reconocimiento facial mediante cámara integrada
-- 📟 Interfaz de estado en pantalla LCD
-- 🎚️ Procesamiento de señales de audio con FFT
+- 🔊 Verificación de hablante (speaker verification) con modelo **Yolo v2-MobilNet**
+- 📷 Reconocimiento facial mediante cámara integrada en tarjeta embebida
+- 📟 Diseño e implementacion de un clasificador de patrones (Palabra clave hablante)
+- 🎚️ Procesamiento de señales de audio con FFT (Micropython)
 - 🐍 Desarrollado en **MicroPython** y **Python**, con notebooks Jupyter para entrenamiento de modelos
 
 ![MicroPython](https://img.shields.io/badge/micropython-2B2728?style=for-the-badge&logo=micropython&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
