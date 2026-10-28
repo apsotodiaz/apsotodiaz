@@ -1,17 +1,5 @@
 <h1 align="center"> Alex Soto</h1>
 <h3 align="center">Ingeniero Electrónico en Automatización y Control | Data Science</h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+and+MEVN+Stack+Developer;Computer+Science+Student;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=sumoncse19&label=Profile%20views&color=0e75b6&style=plastic" alt="sumoncse19" /> <br />
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="sumoncse19" target="_blank"/> 
-	</a>
-</p>
 
 # 💫 Sobre mi:
 
