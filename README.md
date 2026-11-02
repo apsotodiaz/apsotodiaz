@@ -63,8 +63,26 @@ Proyecto de tesis desarrollado sobre la placa **Maixduino (Kendryte K210)**, enf
 
 # 🎓 Certificaciones
 
-- **Gestión Estratégica de Mantenimiento** — Instituto IMB
-- **Análisis de Datos** — en curso
+- Excel aplicado a la analítica de datos (20 h), Ciencias de Datos Ecuador (2026)
+- Analítica y modelado de datos con SQL (40 h), Ciencias de Datos Ecuador (2026)
+- Inteligencia de Negocios con Power BI (30 h), Ciencias de Datos Ecuador (2026)
+- Prevención de riesgos laborales en actividades de alto riesgo: Energía Eléctrica (2025 – 2029)
+- Certificación en AutoCAD 2D y 3D aplicada a instrumentación (2025)
+- DataCamp: Certificación en Power BI, Microsoft Azure (2024)
+- Gestión Estratégica de Mantenimiento, Instituto IMB
+
+---
+
+# 📚 Cursos
+
+- AutoCAD para proyectos eléctricos
+- AutoCAD 2D y 3D para instrumentación
+- Logix 5000 Programmer Level 1
+- Introduction to the Rockwell Automation Library of Process Objects (20 h)
+- Instrumentación Industrial: Especialización Técnica (20 h)
+- Project Management, Google (20 h)
+- Transición Energética (20 h)
+- Microsoft Office (20 h)
 
 ---
 
