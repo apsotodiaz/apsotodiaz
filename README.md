@@ -33,6 +33,16 @@ He participado en el comisionamiento de proyectos industriales, en la documentac
 **Herramientas clave:** Python · SQL · Power BI · Power Query · Machine Learning · PLC · SCADA · Modbus · IoT · C++ · MicroPython · AutoCAD
 
 ---
+# 💻 Habilidades Técnicas
+
+- **Automatización y control:** PLC Allen-Bradley (Studio 5000 / Logix 5000, CompactLogix), PLC Modicon M221, PLC Siemens, IEC 61131-3 (Ladder, diagrama de bloques), FactoryTalk View ME/SE, librería PlantPAx, HMI/SCADA ISA 101, Modbus RTU/TCP, ProSoft MVI56E-MNET, medidores de energía (Schneider PM5100/PM5110)
+- **Instrumentación y diseño:** AutoCAD 2D/3D, AutoCAD Plant 3D, P&ID, ISA 5.1, ISO 10628, ISO 14617-6, IEC 61082, lista de instrumentos, clasificación de áreas, selección de válvulas y actuadores, pruebas de lazo, calibración de transmisores, pruebas FAT/SAT
+- **Ingeniería eléctrica y seguridad:** ETAP, IEC 61439, IEC 60204-1, NFPA 70 (NEC), tableros de fuerza y control, sistemas contra incendios, permisos de trabajo, seguridad industrial
+- **Datos y programación:** Python, SQL (SQL Server), Power BI, Power Query, Power Pivot, Excel, modelado dimensional, MongoDB, C++, MicroPython, Machine Learning con Python (en formación)
+- **IoT y sistemas embebidos:** ESP32, Arduino, MicroPython, Maixduino (Kendryte K210), adquisición de señales y monitoreo remoto
+- **Gestión y documentación:** Microsoft Project, Microsoft Office, documentación técnica, informes de supervisión y avance, manuales técnicos de operador
+
+---
 
 # 🗂️ Portafolio de Proyectos
 
