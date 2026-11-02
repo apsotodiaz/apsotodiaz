@@ -2,7 +2,7 @@
 <h3 align="center">Ingeniero Electrónico en Automatización y Control | Data Science</h3>
 
 <p align="center">
-  📍 Ecuador &nbsp;|&nbsp; 📧 <a href="mailto:apsotodiaz@gmail.com">apsotodiaz@gmail.com</a> &nbsp;|&nbsp; 📱 +593 XX XXX XXXX
+  📍 Ecuador &nbsp;|&nbsp; 📧 <a href="mailto:apsotodiaz@gmail.com">apsotodiaz@gmail.com</a>
 </p>
 
 <p align="center">
