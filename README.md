@@ -66,6 +66,9 @@ Proyecto de tesis desarrollado sobre la placa **Maixduino (Kendryte K210)**, enf
 - Excel aplicado a la analítica de datos (20 h), Ciencias de Datos Ecuador (2026)
 - Analítica y modelado de datos con SQL (40 h), Ciencias de Datos Ecuador (2026)
 - Inteligencia de Negocios con Power BI (30 h), Ciencias de Datos Ecuador (2026)
+- Especialización CEP Mantenimiento 4.0 (marzo 2026):
+  - Power BI aplicado al Mantenimiento (18 h)
+  - Mantenimiento predictivo con Inteligencia Artificial y Python (18 h)
 - Prevención de riesgos laborales en actividades de alto riesgo: Energía Eléctrica (2025 – 2029)
 - Certificación en AutoCAD 2D y 3D aplicada a instrumentación (2025)
 - DataCamp: Certificación en Power BI, Microsoft Azure (2024)
